@@ -5,54 +5,104 @@ title: "Privacy Policy — word."
 
 # Privacy Policy — word.
 
-**Effective date:** June 20, 2026
+**Effective:** 20 June 2026
 **App:** word. (de.einwort.word)
-**Contact:** tran-bao@outlook.de
 
 ---
 
-## 1. Overview
+## 1. Data Controller
 
-word. is a minimalist daily word app. It runs completely offline and does not collect, store, or transmit any personal data. No account is required to use the app.
+The controller within the meaning of the General Data Protection Regulation
+(GDPR) is the provider named in the [Imprint](impressum).
 
-## 2. Data We Do Not Collect
+**Privacy contact:** tran-bao@outlook.de
 
-We do not collect:
+## 2. Overview
 
-- Names, email addresses, or any other personal identifiers
-- Location data
-- Device identifiers or advertising IDs
-- Usage data or analytics
-- Crash reports
-- Any other personal information
+word. is a minimalist word-of-the-day app. It works fully offline and transmits
+**no** personal data to the provider or to any third party. No user account is
+required, and there is no server-side processing.
 
-The app stores your preferences (such as dark mode setting and subscription status) **locally on your device** using your device's built-in storage. This data never leaves your device.
+## 3. Data we do not collect
 
-## 3. In-App Purchases & Subscriptions
+We do not collect, transmit or store on our own systems any:
 
-word. offers an optional subscription (€1.99 / month) to unlock premium features. All payment processing is handled entirely by:
+- names, e-mail addresses or other personal identifiers
+- location data
+- device IDs or advertising IDs
+- usage data, analytics or crash reports
+- other personal information
 
-- **Apple App Store** (iOS) — governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/)
-- **Google Play** (Android) — governed by [Google's Privacy Policy](https://policies.google.com/privacy)
+## 4. Data stored locally on your device
 
-We do not receive, process, or store any payment or billing information. The respective platform operators are solely responsible for handling payment data in accordance with their own privacy policies.
+So the app can remember your preferences, it stores the following **only
+locally** on your device (using the device's own storage, e.g.
+`SharedPreferences` / `UserDefaults`):
 
-## 4. Third-Party Services
+- display preferences (light/dark mode, typeface, language, widget style and
+  colour),
+- the subscription status (whether a subscription is active),
+- **optionally** a **date of birth** you enter, used to determine the zodiac
+  sign and tune the word.
 
-The app does not integrate any third-party analytics, advertising networks, crash reporting tools, or social platforms.
+This data **never leaves your device**, is not transmitted to us and is not
+linked to any other data. You can remove the date of birth at any time in the
+app's settings; uninstalling the app deletes all locally stored data.
 
-The only third-party interaction occurs through the platform's native in-app purchase APIs (Apple StoreKit / Google Play Billing), as described above. These interactions are governed by the privacy policies of Apple and Google respectively.
+## 5. In-app purchases & subscriptions
 
-## 5. Children's Privacy
+word. offers an optional subscription (monthly €1.99 / yearly €14.99) to unlock
+premium features. All payment processing is handled exclusively by:
 
-word. does not knowingly collect any information from children under the age of 13 (or the applicable age of digital consent in your country). Because no data is collected from any user, the app is appropriate for all ages.
+- **Apple App Store** (iOS) — [Apple's Privacy Policy](https://www.apple.com/legal/privacy/)
+- **Google Play** (Android) — [Google's Privacy Policy](https://policies.google.com/privacy)
 
-## 6. Changes to This Policy
+We do not receive, process or store any payment or billing information. The
+respective platform operators are solely responsible for processing payment
+data under their own privacy policies.
 
-We may update this Privacy Policy from time to time. Any changes will be reflected by an updated effective date at the top of this document. Continued use of the app after any changes constitutes acceptance of the updated policy.
+## 6. Third-party services
 
-## 7. Contact
+The app integrates no third-party analytics, advertising networks, crash
+reporting services or social platforms. The only third-party interaction occurs
+through each platform's native in-app purchase APIs (Apple StoreKit / Google
+Play Billing), as described above.
 
-If you have any questions about this Privacy Policy, please contact us:
+## 7. Legal basis
 
-**Email:** tran-bao@outlook.de
+As the provider neither collects nor processes personal data, no processing
+within the meaning of Art. 6 GDPR arises in relation to the provider. Where
+processing occurs through Apple or Google during a purchase, it is necessary
+for the performance of a contract (Art. 6(1)(b) GDPR) and is subject to the
+respective platform's privacy terms.
+
+## 8. Your rights
+
+Under the GDPR you generally have the right to access (Art. 15), rectification
+(Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data
+portability (Art. 20) and objection (Art. 21). As we hold no personal data
+about you, we cannot provide information specific to you. Please exercise rights
+regarding data processed by Apple or Google directly with the respective
+platform.
+
+## 9. Right to lodge a complaint
+
+You have the right to lodge a complaint with a data protection supervisory
+authority, in particular in the Member State of your habitual residence, place
+of work or the place of the alleged infringement.
+
+## 10. Children's privacy
+
+word. does not knowingly collect any information from children. As no data is
+collected server-side, the app is suitable for all ages.
+
+## 11. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes are indicated by an
+updated effective date at the top of this document. The current version is
+always available via the app and this website.
+
+## 12. Contact
+
+For questions about this Privacy Policy, please contact:
+**tran-bao@outlook.de** — postal address see [Imprint](impressum).
